@@ -6,7 +6,7 @@ from collections import Counter
 import string
 
 # Ruta del archivo exportado de WhatsApp
-archivo = r"C:\Users\cesar\Downloads\WhatsApp Chat - Paula Avila 📸👧 🧭\_chat.txt"
+archivo = r"chat.txt"
 
 
 # Leer el archivo
